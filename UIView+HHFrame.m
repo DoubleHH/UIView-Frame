@@ -1,5 +1,5 @@
 //
-//  UIView+Frame.m
+//  UIView+HHFrame.m
 //  Borrowed from Three20
 //
 //  Copyright (c) 2013 iOS. No rights reserved.

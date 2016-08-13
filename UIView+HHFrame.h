@@ -1,5 +1,5 @@
  //
-//  UIView+Frame.h
+//  UIView+HHFrame.h
 //  Borrowed from Three20 / DTFoundation
 //
 //  Copyright (c) 2013 iOS. No rights reserved.
